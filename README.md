@@ -14,7 +14,7 @@
 
 - 📫 Email **hadiyogga@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Hasil Tampilan Projec:</h3>
 <p align="left">
 </p>
 
