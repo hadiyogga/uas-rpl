@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yogga Hadi Sutisna</h1>
 <h3 align="center">Indonesia</h3>
-<img align="kanan" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🔭 Universitas **Universitas Panca Sakti Bekasi**
 
@@ -15,6 +15,7 @@
 - 📫 Email **hadiyogga@gmail.com**
 
 <h3 align="left">Hasil Tampilan Projec:</h3>
+<img align="right" alt="Coding" width="400" src="https://i.ibb.co/XZPT1PP/profile.jpg">
 <p align="left">
 </p>
 
