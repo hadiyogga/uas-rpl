@@ -15,7 +15,7 @@
 - 📫 Email **hadiyogga@gmail.com**
 
 <h3 align="left">Hasil Tampilan Projec:</h3>
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co/XZPT1PP/profile.jpg">
+<img align="left" alt="Coding" width="400" src="https://i.ibb.co/XZPT1PP/profile.jpg">
 <p align="left">
 </p>
 
