@@ -1,3 +1,4 @@
+* linguist-vendored
 *.java linguist-detectable=false
 *.js linguist-detectable=false
 *.C++ linguist-detectable=false
