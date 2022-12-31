@@ -1,4 +1,4 @@
-* linguist-vendored
-*.Dart linguist-vendored=true
+# add this two lines 
+*.* linguist-language=Swift
 
-
+project-docs/* linguist-documentation
