@@ -6,7 +6,7 @@
 
 - 🌱 Mata Kuliah **PROGRAM PERANGKAT BERGERAK**
 
-- 👯 Tugas **UAS RPL**
+- 👯 Tugas **UAS RPL ( Project Flutter Profile )**
 
 - 🤝NIM **3912270003**
 
